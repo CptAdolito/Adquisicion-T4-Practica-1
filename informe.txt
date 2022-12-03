@@ -1,0 +1,99 @@
+El archivo dataset/pizzas.csv
+El total de Nan por columna es: 
+pizza_id         0
+pizza_type_id    0
+size             0
+price            0
+dtype: int64
+El total de Null por columna es: 
+pizza_id         0
+pizza_type_id    0
+size             0
+price            0
+dtype: int64
+El dtype de cada columna es: 
+pizza_id          object
+pizza_type_id     object
+size              object
+price            float64
+dtype: object
+
+
+El archivo dataset/pizza_types.csv
+El total de Nan por columna es: 
+pizza_type_id    0
+name             0
+category         0
+ingredients      0
+dtype: int64
+El total de Null por columna es: 
+pizza_type_id    0
+name             0
+category         0
+ingredients      0
+dtype: int64
+El dtype de cada columna es: 
+pizza_type_id    object
+name             object
+category         object
+ingredients      object
+dtype: object
+
+
+El archivo dataset/orders.csv
+El total de Nan por columna es: 
+order_id    0
+date        0
+time        0
+dtype: int64
+El total de Null por columna es: 
+order_id    0
+date        0
+time        0
+dtype: int64
+El dtype de cada columna es: 
+order_id     int64
+date        object
+time        object
+dtype: object
+
+
+El archivo dataset/order_details.csv
+El total de Nan por columna es: 
+order_details_id    0
+order_id            0
+pizza_id            0
+quantity            0
+dtype: int64
+El total de Null por columna es: 
+order_details_id    0
+order_id            0
+pizza_id            0
+quantity            0
+dtype: int64
+El dtype de cada columna es: 
+order_details_id     int64
+order_id             int64
+pizza_id            object
+quantity             int64
+dtype: object
+
+
+El archivo dataset/data_dictionary.csv
+El total de Nan por columna es: 
+Table          0
+Field          0
+Description    0
+dtype: int64
+El total de Null por columna es: 
+Table          0
+Field          0
+Description    0
+dtype: int64
+El dtype de cada columna es: 
+Table          object
+Field          object
+Description    object
+dtype: object
+
+
